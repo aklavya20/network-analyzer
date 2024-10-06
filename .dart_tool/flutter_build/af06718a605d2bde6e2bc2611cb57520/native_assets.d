@@ -1,0 +1,1 @@
+ C:\\network-analyzer\\.dart_tool\\flutter_build\\af06718a605d2bde6e2bc2611cb57520\\native_assets.yaml: 
