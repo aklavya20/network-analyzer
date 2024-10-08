@@ -93,7 +93,7 @@
 
 # Using Source  
   - 1). Download the repository as a zip file by clicking on download as zip.
-        - ``` https://github.com/aklavya20/network-analyzer.git ```
+         ``` https://github.com/aklavya20/network-analyzer.git ```
   - 2). Open the project in Android Studio and in terminal type flutter pub get after extracting the zip folder. 
   - 3). Make a Kali Linux VM and paste the **nmap.php** file in the /var/www/html folder.
   - 4). Setup tailscale on the Kali linux.
