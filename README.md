@@ -11,16 +11,16 @@
 # Steps to Setup Project 
  # Using Git
   - 1). Git Clone the repository using following command.
-        ``` git clone https://github.com/aklavya20/network-analyzer.git ``` 
+        - ``` git clone https://github.com/aklavya20/network-analyzer.git ``` 
   - 2). Open the project in Android Studio and in terminal type flutter pub get.
   - 3). Make a Kali Linux VM and paste the **nmap.php** file in the /var/www/html folder.
   - 4). Setup tailscale on the Kali linux 
      - a). Paste the following URL in the kali terminal.
-           ``` curl -fsSL https://tailscale.com/install.sh | sh ```
+           - ``` curl -fsSL https://tailscale.com/install.sh | sh ```
      - b). Enter following Command after installing tail scale.
-           ``` tailscale up ```
+           - ``` tailscale up ```
      - c). After Successfully registering the device on tailscale enter the following command.
-           ``` taiscale funnel 80 ```
+           - ``` taiscale funnel 80 ```
      - d). You will get a url something like this. 
          - url: https://kali.tail7d5586.ts.net 
          - Try accessing the url to see if you can see the index.html page of the apache2 server. 
@@ -29,9 +29,9 @@
      - To add necessary Permissions follow the steps below
       - a). Open the terminal and enter the command **sudo su** and then enter your root user password.
       - b). Enter the following Command.
-            ``` nano /etc/sudoers ```
+            - ``` nano /etc/sudoers ```
       - c). Enter the following permissions.
-            ``` www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap ```
+            - ``` www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap ```
       - d). The final /etc/sudoers file should look like this.
             #
             # This file MUST be edited with the 'visudo' command as root.
@@ -93,16 +93,16 @@
 
 # Using Source  
   - 1). Download the repository as a zip file by clicking on download as zip.
-        ``` https://github.com/aklavya20/network-analyzer.git ```
+        - ``` https://github.com/aklavya20/network-analyzer.git ```
   - 2). Open the project in Android Studio and in terminal type flutter pub get after extracting the zip folder. 
   - 3). Make a Kali Linux VM and paste the **nmap.php** file in the /var/www/html folder.
   - 4). Setup tailscale on the Kali linux.
        - a). Paste the following URL in the kali terminal.
-             ``` curl -fsSL https://tailscale.com/install.sh | sh ```
+             - ``` curl -fsSL https://tailscale.com/install.sh | sh ```
        - b). Enter following Command after installing tail scale.
-             ``` tailscale up ```
+             - ``` tailscale up ```
        - c). After Successfully registering the device on tailscale enter the following command.
-             ``` taiscale funnel 80 ```
+             - ``` taiscale funnel 80 ```
        - d). You will get a url something like this.
            - url: https://kali.tail7d5586.ts.net
            - Try accessing the url to see if you can see the index.html page of the apache2 server.
@@ -111,9 +111,9 @@
        - To add necessary Permissions follow the steps below
       - a). Open the terminal and enter the command **sudo su** and then enter your root user password.
       - b). Enter the following Command.
-            ``` nano /etc/sudoers ```
+            - ``` nano /etc/sudoers ```
       - c). Enter the following permissions.
-            ``` www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap ```
+            - ``` www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap ```
       - d). The final /etc/sudoers file should look like this.
              #
              # This file MUST be edited with the 'visudo' command as root.
