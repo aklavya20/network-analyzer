@@ -188,3 +188,7 @@
       - Scan result separate the scan result in three category **XML** **TXT** **GREPABLE** based on output format you select 
         here you can see your scan result. 
 # You can start multiple scan at once.
+# If you like my project support me by buying me a coffee
+
+<h3 align="left">Support:</h3>
+<p><a href="https://buymeacoffee.com/aklavya20"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/aklavya20" /></a></p>
