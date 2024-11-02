@@ -174,7 +174,7 @@
   - 6). Now run the project in android studio.
 # Installation of app   
   Visit the following path to download the app.
-  - path: /build/app/outputs/flutter-apk/app-debug.apk
+  - path: [/build/app/outputs/flutter-apk/app-debug.apk](https://github.com/aklavya20/network-analyzer/releases/download/network-analyzer/network-analyzer.apk)
 # Usage
   - 1). Download the app. 
   - 2). On the right hand corner of the screen you may see the terminal logo here you can enter the custom server address, 
