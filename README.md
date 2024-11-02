@@ -173,8 +173,8 @@
 
   - 6). Now run the project in android studio.
 # Installation of app   
-  Visit the following path to download the app.
-  - path: [network-analyzer](https://github.com/aklavya20/network-analyzer/releases/download/network-analyzer/network-analyzer.apk)
+  Visit the following url to download the app.
+  - url: [network-analyzer](https://github.com/aklavya20/network-analyzer/releases/download/network-analyzer/network-analyzer.apk)
 # Usage
   - 1). Download the app. 
   - 2). On the right hand corner of the screen you may see the terminal logo here you can enter the custom server address, 
