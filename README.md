@@ -20,7 +20,7 @@
      - b). Enter following Command after installing tail scale.
             ``` tailscale up ```
      - c). After Successfully registering the device on tailscale enter the following command.
-            ``` taiscale funnel 80 ```
+            ``` tailscale funnel 80 ```
      - d). You will get a url something like this. 
          - url: https://kali.tail7d5586.ts.net 
          - Try accessing the url to see if you can see the index.html page of the apache2 server. 
@@ -102,7 +102,7 @@
        - b). Enter following Command after installing tail scale.
               ``` tailscale up ```
        - c). After Successfully registering the device on tailscale enter the following command.
-              ``` taiscale funnel 80 ```
+              ``` tailscale funnel 80 ```
        - d). You will get a url something like this.
            - url: https://kali.tail7d5586.ts.net
            - Try accessing the url to see if you can see the index.html page of the apache2 server.
