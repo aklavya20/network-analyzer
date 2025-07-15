@@ -1,0 +1,2 @@
+C:/network_analyzer/android/app/.cxx/RelWithDebInfo/w30a6v2q/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/network_analyzer/android/app/.cxx/RelWithDebInfo/w30a6v2q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
