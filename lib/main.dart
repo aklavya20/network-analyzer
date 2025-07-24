@@ -949,11 +949,17 @@ class NetworkanalyzerState extends State<Networkanalyzer> {
                   ),
                   actions: [
                     TextButton(
-                      child: const Text('Cancel'),
+                      child: const Text(
+                        'Cancel',
+                        style: TextStyle(color: Colors.black),
+                      ),
                       onPressed: () => Navigator.pop(context),
                     ),
                     TextButton(
-                        child: const Text('Save'),
+                        child: const Text(
+                          'Save',
+                          style: TextStyle(color: Colors.black),
+                        ),
                         onPressed: () {
                           setState(() {
                             serverAddress = serverController.text;
