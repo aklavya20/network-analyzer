@@ -1111,6 +1111,8 @@ class NetworkanalyzerState extends State<Networkanalyzer> {
         ),
       ),
       bottomNavigationBar: BottomNavigationBar(
+        selectedItemColor: Colors.black,
+        unselectedItemColor: Colors.grey,
         items: const [
           BottomNavigationBarItem(
             icon: Icon(
@@ -1273,6 +1275,8 @@ class ScanResultState extends State<ScanResult> {
           ],
         ),
         bottomNavigationBar: BottomNavigationBar(
+          selectedItemColor: Colors.black,
+          unselectedItemColor: Colors.grey,
           items: const [
             BottomNavigationBarItem(
               icon: Icon(
